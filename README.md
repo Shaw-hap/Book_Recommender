@@ -30,10 +30,8 @@ Users.csv — Contains demographic information about users
 # Tech Stack
 Python — Core programming language
 <br>
-
 Pandas / NumPy — Data preprocessing
 <br>
-
 Scikit-learn — Similarity computation & ML utilities
 <br>
 Flask — Web app interface
